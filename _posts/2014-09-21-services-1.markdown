@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Scientific researches
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Current lab is [onewaylab](http://onewaylab.com/#/login), advisor is [Wei Wang](http://www.bio.pku.edu.cn/homes/Index/news_cont_jl/16/801.html)

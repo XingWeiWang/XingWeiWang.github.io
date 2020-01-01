@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://xingweiwang.github.io
-title: Xingwei Wang's personal Site
+title: Xingwei Wang's personal site
 email: pkuwangxw@pku.edu.cn
 author: Xingwei Wang
 description: > # "Write an awesome description for your new site here. 
@@ -11,7 +11,7 @@ description: > # "Write an awesome description for your new site here.
   head meta (for Google search results) and in your feed.xml site 
   description.
 copyright: 'Copyright &copy; 2020 Xingwei Wang. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+credits: 'Acknowledgement: This landing page is forked from  github by <a href="https://github.com/swcool">Shane Weng</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,9 +26,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: email
-    url: https://twitter.com/SBootstrap
-  - title: githubW
+  - title: Weibo
+    url: https://weibo.com/6390439767/profile?rightmod=1&wvr=6&mod=personnumber&is_all=1#_rnd1577885079094
+  - title: github
     url: https://xingweiwang.github.io
   - title: wechat
     url: 
